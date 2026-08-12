@@ -295,7 +295,7 @@ npm run dev
 * Download and run LM Studio
 * Load a compatible model
 * Enable OpenAI-compatible API
-* Default endpoint: [http://localhost:1234](http://localhost:1234)
+
 
 ---
 
